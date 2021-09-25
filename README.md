@@ -1,14 +1,20 @@
 # Cryptoverse
 
-<!-- [Live Site]()
+[![Netlify Status](https://api.netlify.com/api/v1/badges/77ded40c-600d-44d7-883c-463683d0fae5/deploy-status)](https://app.netlify.com/sites/cryptoverse-amn/deploys)
 
-![screen-gif]() -->
+[Cryptoverse Live Site](cryptoverse-amn.netlify.app)
 
-### Cryptoverse uses the following APIs from [RapidAPI](https://rapidapi.com/hub) :
+![screen-gif](public/cryptoverse.gif)
 
-1. [Coinranking API](https://rapidapi.com/Coinranking/api/coinranking1/details)
-2. [Bing News Search API](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/)
+---
 
+## Cryptoverse uses the following APIs from [RapidAPI](https://rapidapi.com/hub) :
+
+> [Coinranking API](https://rapidapi.com/Coinranking/api/coinranking1/details)
+
+> [Bing News Search API](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/)
+
+---
 
 ## Usage
 
@@ -19,3 +25,5 @@ yarn install | npm install
 yarn start | npm start
 
 ```
+
+---
